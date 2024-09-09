@@ -3,7 +3,7 @@
 <br>
 
 <h4 align="left">An enthusiastic and skilled undergraduate who is dedicated to pursuing innovative solutions. I thrive on challenges and bring a steady, adaptable mindset to every task, and eager to leverage my skills to contribute effectively to dynamic projects.</h4>
-<br><br>
+<br>
 - 🌱I'm interested in **Frontend development and UI/UX**
 
 - 🔭 I'm currently learning [React, Node.js](React, Node.js)
@@ -14,7 +14,7 @@
 
 - 👨‍💻 I’m looking to collaborate with **web and mobile developers**
 
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kavindi-saubhagya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindi saubhagya" height="30" width="40" /></a>
