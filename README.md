@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavindi Saubhagya</h1>
-<h3 align="center">An enthusiastic and skilled undergraduate who is dedicated to pursuing innovative solutions. I thrive on challenges and bring a steady, adaptable mindset to every task, and eager to leverage my skills to contribute effectively to dynamic projects.</h3>
+
+<h4 align="left">An enthusiastic and skilled undergraduate who is dedicated to pursuing innovative solutions. I thrive on challenges and bring a steady, adaptable mindset to every task, and eager to leverage my skills to contribute effectively to dynamic projects.</h4>
 
 - 🌱I'm interested in **Frontend development and UI/UX**
 
