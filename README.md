@@ -5,7 +5,7 @@
 <br>
 - 🌱I'm interested in **Frontend development and UI/UX**
 
-- 🔭 I'm currently learning [React, Node.js](React, Node.js)
+- 🔭 I'm currently learning React, Node.js
 
 - 💬 I’m currently learning at **Univercity of Moratuwa as a ITM undergraduate.**
 
