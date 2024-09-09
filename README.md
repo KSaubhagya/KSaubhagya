@@ -5,11 +5,12 @@
 
 - 🔭 I'm currently learning [React, Node.js](React, Node.js)
 
-- 📫 How to reach me; [kavindisaubhagya2001off@gmail.com](kavindisaubhagya2001off@gmail.com)
-
 - 💬 I’m currently learning at **Univercity of Moratuwa as a ITM undergraduate.**
 
-- 👨‍💻 I’m looking to collaborate with **web and mobile developers**
+- 📫 How to reach me; [kavindisaubhagya2001off@gmail.com](kavindisaubhagya2001off@gmail.com)
+
+- - 👨‍💻 I’m looking to collaborate with **web and mobile developers**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
