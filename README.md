@@ -3,7 +3,7 @@
 
 <h4 align="left">An enthusiastic and skilled undergraduate who is dedicated to pursuing innovative solutions. I thrive on challenges and bring a steady, adaptable mindset to every task, and eager to leverage my skills to contribute effectively to dynamic projects.</h4>
 <br>
-- 🌱I'm interested in **Frontend development and UI/UX**
+- 🌱I'm interested in Frontend development and UI/UX
 
 - 🔭 I'm currently learning React, Node.js
 
