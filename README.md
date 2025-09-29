@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently learning React, Node.js
 
-- 💬 I’m currently learning at **Univercity of Moratuwa as a ITM undergraduate.**
+- 💬 I’m currently learning at **University of Moratuwa as a ITM undergraduate.**
 
 - 📫 How to reach me; [kavindisaubhagya2001off@gmail.com](kavindisaubhagya2001off@gmail.com)
 
