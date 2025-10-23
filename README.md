@@ -11,7 +11,7 @@
 
 - 📫 How to reach me; [kavindisaubhagya2001off@gmail.com](kavindisaubhagya2001off@gmail.com)
 
-- 👨‍💻 I’m looking to collaborate with **web and mobile developers**
+- 👨‍💻 I’m looking to collaborate with **web, backend and mobile developers**
 
 <br>
 <h3 align="left">Connect with me:</h3>
