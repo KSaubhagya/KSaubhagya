@@ -3,11 +3,11 @@
 
 <h4 align="left">An enthusiastic and skilled undergraduate who is dedicated to pursuing innovative solutions. I thrive on challenges and bring a steady, adaptable mindset to every task, and eager to leverage my skills to contribute effectively to dynamic projects.</h4>
 <br>
-- 🌱I'm interested in Backend development and UI/UX
+- 🌱I'm interested in Backend development and UI/UX development
 
 - 🔭 I'm currently learning Angular, .NET
 
-- 💬 I’m currently learning at **University of Moratuwa as a ITM undergraduate.**
+- 💬 I’m currently learning at **University of Moratuwa as an ITM undergraduate.**
 
 - 📫 How to reach me; [kavindisaubhagya2001off@gmail.com](kavindisaubhagya2001off@gmail.com)
 
