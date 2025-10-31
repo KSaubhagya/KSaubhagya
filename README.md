@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently learning Angular, .NET
 
-- 💬 I’m currently learning at **University of Moratuwa as an ITM undergraduate.**
+- 💬 I’m currently an undergraduate at **University of Moratuwa.**
 
 - 📫 How to reach me; [kavindisaubhagya2001off@gmail.com](kavindisaubhagya2001off@gmail.com)
 
