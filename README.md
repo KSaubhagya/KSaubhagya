@@ -3,7 +3,7 @@
 
 <h4 align="left">An enthusiastic and skilled undergraduate who is dedicated to pursuing innovative solutions. I thrive on challenges and bring a steady, adaptable mindset to every task, and eager to leverage my skills to contribute effectively to dynamic projects.</h4>
 <br>
-- 🌱I'm interested in Backend development and UI/UX development
+- 🌱I'm interested in Backend development and full stack development
 
 - 🔭 I'm currently learning Angular, .NET
 
