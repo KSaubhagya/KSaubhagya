@@ -9,7 +9,7 @@
 
 - 💬 I’m currently a final year undergraduate at **University of Moratuwa**
 
-- 📫 How to reach me; [kavindisaubhagya2001off@gmail.com](kavindisaubhagya2001off@gmail.com)
+- 📫 How to reach me : [kavindisaubhagya2001off@gmail.com](kavindisaubhagya2001off@gmail.com)
 
 - 👨‍💻 I’m looking to collaborate with **web, backend and mobile developers**
 
