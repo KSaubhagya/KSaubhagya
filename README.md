@@ -5,7 +5,7 @@
 <br>
 - 🌱I'm interested in Backend development, full stack development and research
 
-- 🔭 I'm currently learning Angular, .NET
+- 🔭 I'm currently learning Angular, .NET 
 
 - 💬 I’m currently a final year undergraduate at **University of Moratuwa**
 
