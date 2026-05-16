@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋 I'm Kavindi Saubhagya</h1> 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">   
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">    
  
 <h4 align="left">An enthusiastic and skilled undergraduate who is dedicated to pursuing innovative solutions. I thrive on challenges and bring a steady, adaptable mindset, and eager to leverage my skills to contribute effectively to dynamic and innovative projects within a professional setting</h4>     
 <br>  
