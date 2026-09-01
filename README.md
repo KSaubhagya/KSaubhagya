@@ -1,7 +1,7 @@
 <h1 align="center">Hii👋 I'm Kavindi Saubhagya</h1>  
 <img align="right" alt="coding" width="300" height="330" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif"> 
     
-<h4 align="left">An enthusiastic and skilled software engineer who is dedicated to pursuing innovative solutions and creative problem solving. I thrive on challenges and bring a steady, adaptable mindset, and eager to leverage my skills to contribute effectively to dynamic and innovative projects within a professional setting while learning and adapting</h4>     
+<h4 align="left">An enthusiastic and skilled software engineer who is dedicated to pursuing innovative solutions and creative problem solving. I thrive on challenges and bring a steady, adaptable mindset, and eager to leverage my skills to contribute effectively to dynamic and innovative projects within a professional setting while learning and adapting to new technologies</h4>     
 <br>
 - 🌱I'm interested in Backend development, full-stack development, frontend developement and research
       
