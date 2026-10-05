@@ -3,7 +3,7 @@
     
 <h4 align="left">An enthusiastic and skilled software engineer who is dedicated to pursuing innovative solutions and creative problem solving. I thrive on challenges and bring a steady, adaptable mindset, and eager to leverage my skills to contribute effectively to dynamic and innovative projects within a professional setting while learning and adapting to the new technologies </h4>     
 <br>
-- 🌱I'm interested in Backend development, full-stack development, frontend developement and research
+- 🌱I'm interested in backend development, full-stack development, frontend developement and research
       
 - 🔭 I'm currently learning Angular, .NET
      
