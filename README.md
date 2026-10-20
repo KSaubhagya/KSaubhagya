@@ -7,7 +7,7 @@
       
 - 🔭 I'm currently learning Angular, .NET, AWS
      
-- 💬 I’m currently a graduate at **University of Moratuwa**  
+- 💬 I’m a graduate at **University of Moratuwa**  
 
 - 📫 How to reach me : [kavindisaubhagya2001off@gmail.com](kavindisaubhagya2001off@gmail.com)
 
